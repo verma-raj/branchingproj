@@ -2,7 +2,6 @@ Rose
 china rose
 Jasmine
 marigold
-/* modified by Dev1 */
-/* Removed Lotus */
 Sunflower
-/* Change completed by Dev1 */
+#-------Removed all comments by Dev1----#
+Lotus
