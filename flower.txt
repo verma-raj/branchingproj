@@ -6,3 +6,5 @@ marigold
 /* Removed Lotus */
 Sunflower
 /* Change completed by Dev1 */
+Chameli
+Acacia
