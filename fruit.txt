@@ -7,9 +7,10 @@ Litchi
 Plum
 /* modified by Dev1 */
 Pinapple
+/* Added in previous release
+Dragon fruit
+/*------ End of addition previos release---*/
 /* Update compelted by Dev1*/
-/* Modified by Dev2 */
-Custard Apple
 /* Completed by Dev2 */
 These line is added to demonstrate and simulate a release which is done in preoduction and the code is baselined 
 in the Main branch , hence need to be rebased .
