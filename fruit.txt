@@ -5,3 +5,6 @@ Cherry
 Berry
 Litchi
 Plum
+// Added for 25Dec2022 release by Dev-Added
+Guava
+Grapes
