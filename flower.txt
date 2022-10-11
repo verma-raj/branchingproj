@@ -7,5 +7,10 @@ Sunflower
 Lotus
 Chameli
 Acacia
+<<<<<<< HEAD
 #--- Added by Dev-2 for 25Nov2022 release
 Lavender
+=======
+#---Added by Dev1 for assignment
+Tulip
+>>>>>>> bde1da0d25e58e18ba376ff86e4e923167d04e3f
